@@ -2,25 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: M.Sc. Student in AI at <a href='https://iasbs.ac.ir'>IASBS</a> | Aspiring Ph.D. Candidate in Computer Science
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  align: top
+  image: s_prof_pic.jpeg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+    <div style='font-size:13px'>
+    <p>123 Office, IT Department</p>
+    <p>Institute for Advanced Studies in Basic Sciences</p>
+    <p>Gavazang Street, Zanjan, Iran</p>
+    </div>
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I earned my Bachelor of Science in Computer Engineering from the [University of Zanjan](https://www.znu.ac.ir/en), guided by the expertise of [Dr. Sajad Haghzad Klidbari](https://www.znu.ac.ir/members/haghzad/en). The culmination of my undergraduate studies was the development of the Stereo Center, an innovative electronic monitoring system utilizing stereo vision. This system, dedicated to object detection, distance measurement, and size estimation, not only showcased my technical skills but also ignited a profound passion for impactful research and development in Machine Learning and Deep Learning, particularly within the realm of Computer Vision.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Currently**, I am pursuing my Master of Science in Artificial Intelligence at [Institute for Advanced Studies in Basic Sciences](https://iasbs.ac.ir), under the supervision of [Dr. Mohsen Houshmand](https://iasbs.ac.ir/~mohsen.hooshmand/). My research interests have evolved in tandem with my academic journey, encompassing:
+- `Machine Learning`
+- `Deep Learning`
+- `Computer Vision`
+- `Bioinformatics`
+- `Quantum Computing`(recently).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+While I've dedicated approximately two years to the study of Machine Learning, Deep Learning, and Computer Vision, I am embarking on a new chapter to explore the fascinating realms of Bioinformatics and Quantum Computing during my M.Sc. These uncharted fields present exciting opportunities for me to broaden my knowledge and contribute to cutting-edge advancements in technology.
