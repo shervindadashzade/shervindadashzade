@@ -2,16 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Amirhossein Dadashzadeh Taromi
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21th March 2000
     - name: Languages
-      value: English, German
+      value: English, Persian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: M.Sc.
       institution: University of Zurich, Zurich, Switzerland
       year: 1905
       description:

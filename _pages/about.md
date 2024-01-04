@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I earned my Bachelor of Science in Computer Engineering from the [University of Zanjan](https://www.znu.ac.ir/en), guided by the expertise of [Dr. Sajad Haghzad Klidbari](https://www.znu.ac.ir/members/haghzad/en). The culmination of my undergraduate studies was the development of the [Stereo Center](https://github.com/shervindadashzade/stereo-center), an innovative electronic monitoring system utilizing stereo vision. This system, dedicated to object detection, distance measurement, and size estimation, not only showcased my technical skills but also ignited a profound passion for impactful research and development in Machine Learning and Deep Learning, particularly within the realm of Computer Vision.
 
-**Currently**, I am pursuing my Master of Science in Artificial Intelligence at [Institute for Advanced Studies in Basic Sciences](https://iasbs.ac.ir), under the supervision of [Dr. Mohsen Houshmand](https://iasbs.ac.ir/~mohsen.hooshmand/). My research interests have evolved in tandem with my academic journey, encompassing:
+**Currently**, I am pursuing my Master of Science in Artificial Intelligence at [Institute for Advanced Studies in Basic Sciences](https://iasbs.ac.ir), under the supervision of [Dr. Mohsen Hooshmand](https://iasbs.ac.ir/~mohsen.hooshmand/). My research interests have evolved in tandem with my academic journey, encompassing:
 - `Machine Learning`
 - `Deep Learning`
 - `Computer Vision`
